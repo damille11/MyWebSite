@@ -1,0 +1,14 @@
+body{background-color:#ADD8E6;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+p{background-color:white;
+font-family:Arial;
+color:black;
+-webkit-text-stroke-width: .5px;
+-webkit-text-stroke-color: black;
+font-size:24px}
+
+h1{color:black}
+a{font-size: 24px}
